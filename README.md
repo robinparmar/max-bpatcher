@@ -1,5 +1,5 @@
 # max-bpatcher
-Use of bpatcher in Max 7
+Use of bpatcher in Max 7.
 
 This is a sketch (incomplete patcher) showing how to use the same bpatcher multiple times, to process different buffers. There are two methods.
 
